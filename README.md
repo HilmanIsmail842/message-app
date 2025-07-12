@@ -24,7 +24,6 @@ Aplikasi Laravel sederhana untuk berkirim pesan antar pengguna.
 - ✉️ Kirim dan baca pesan
 - 📥 Lihat daftar pesan masuk
 - 🗑️ Hapus pesan
-- 🎨 Tampilan standar responsif
 
 ---
 
